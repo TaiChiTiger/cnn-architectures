@@ -1,11 +1,15 @@
-## CNN Architectures
+# CNN Architectures
+## Datasets
+- CIFAR10: default
+- Animals: 3 classes: cats, dogs and pandas
 
 ## Hyperparameter Configuration 
-optimization method: SGD
-learning rate: 0.01
-weight decay: None/0.0005
-batch size: 32/64/128
-Epochs: 30
+- optimization method: SGD
+- learning rate: 0.01
+- weight decay: None/0.0005
+- batch size: 32/64/128
+- epochs: 30
+
 ## Ordered by Timeline
 
 - 2012.09 **AlexNet** [CoLab](https://colab.research.google.com/drive/1tMwqHl-SiLEvJPGAeWivBWeIrw7nNrmc) 
