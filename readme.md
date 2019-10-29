@@ -8,7 +8,7 @@
 - learning rate: 0.01
 - weight decay: None/0.0005
 - batch size: 32/64/128
-- epochs: 30
+- epochs: 10/30
 
 ## Ordered by Timeline
 
