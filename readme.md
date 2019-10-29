@@ -22,7 +22,8 @@ Epochs: 30
 - 2016.10 **Xception** [Colab]()
 - 2016.11 **ResNeXt** [Colab]()
 - 2017.04 **MobileNet** [Colab]()
-- 2017.09 **SENet** [Colab]()
-- 2017.06 **ShuffleNet**
-- 2018.01 **MobileNet V2**
-- 2018.06 **ShuffleNet V2**
+- 2017.09 **SENet**
+  - **SEResNet** [Colab]()
+- 2017.06 **ShuffleNet** [Colab]()
+- 2018.01 **MobileNet V2** [Colab]()
+- 2018.06 **ShuffleNet V2** [Colab]()
