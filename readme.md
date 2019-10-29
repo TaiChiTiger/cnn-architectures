@@ -17,5 +17,12 @@ Epochs: 30
   - **ResNet V1a** [Colab]()
   - **ResNet V1b** [Colab]()
 - 2016.02 **Inception-v4** [Colab]()
-- 2016.02 **SqueezeNet**
--
+- 2016.02 **SqueezeNet** [Colab]()
+- 2016.03 **ResNet V2** [Colab]()
+- 2016.10 **Xception** [Colab]()
+- 2016.11 **ResNeXt** [Colab]()
+- 2017.04 **MobileNet** [Colab]()
+- 2017.09 **SENet** [Colab]()
+- 2017.06 **ShuffleNet**
+- 2018.01 **MobileNet V2**
+- 2018.06 **ShuffleNet V2**
