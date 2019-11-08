@@ -1,6 +1,6 @@
 # CNN Architectures
 ## Datasets
-- CIFAR10: default
+- CIFAR10: default dataset
 - Animals: 3 classes: cats, dogs and pandas
 
 ## Hyperparameter Configuration 
